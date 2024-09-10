@@ -1,12 +1,20 @@
 # LOLOLOSHKA2008              
 🟩🟩🟩🟩🟩🟩🟩🟩
+
 🟩🟩🟩🟩🟩🟩🟩🟩
+
 🟩⬛️⬛️🟩🟩⬛️⬛️🟩
+
 🟩⬛️⬛️🟩🟩⬛️⬛️🟩
+
 🟩🟩🟩⬛️⬛️🟩🟩🟩
+
 🟩🟩⬛️⬛️⬛️⬛️🟩🟩
+
 🟩🟩⬛️⬛️⬛️⬛️🟩🟩
+
 🟩🟩⬛️🟩🟩⬛️🟩🟩⠀
+
 🟩🟩🟩🟩🟩🟩🟩🟩⠀⠀⠀⠀⠀
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lololoshka2008&theme=shadow_green&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lololoshka2008&layout=compact&theme=shadow_green&bg_color=00000000)
